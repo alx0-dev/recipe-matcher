@@ -4,6 +4,7 @@ import RecipeCard from "../components/RecipeCard";
 const RecipesPage = () => {
     return (
         <>
+            Recipes Page
             <RecipeCard />
         </>
     );
